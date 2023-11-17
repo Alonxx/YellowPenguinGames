@@ -48,7 +48,7 @@ export default function Page() {
           described in this privacy policy. The app does use third-party
           services that may collect information used to identify you. Link to
           the privacy policy of third-party service providers used by the app
-          Google Play Services, AdMob, and Godot
+          Google Play Services, AdMob, and Godot.
           <h3 className="text-xl mb-1 mt-6">Log Data</h3>
           <p>
             We want to inform you that whenever you use our Service, in a case
