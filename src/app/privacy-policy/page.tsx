@@ -13,7 +13,7 @@ export default function Page() {
     <div className="bg-white w-[100vw] h-full text-black">
       <div className="flex justify-center pt-10 flex-row items-center">
         <Avatar
-          src="/images/ypg_logo.png"
+          src="https://alonxx.github.io/YellowPenguinGames/images/ypg_logo.png"
           isBordered
           className="w-28 h-28 text-large bg-[#f7ca4c]"
         />
