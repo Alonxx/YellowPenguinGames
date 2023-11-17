@@ -15,7 +15,7 @@ export default function Home() {
     <div className="">
       <div className="flex justify-center pt-10 flex-col items-center">
         <Avatar
-          src="/images/ypg_logo.png"
+          src="https://alonxx.github.io/YellowPenguinGames/images/ypg_logo.png"
           isBordered
           className="w-24 h-24 text-large bg-[#f7ca4c]"
         />
@@ -31,7 +31,7 @@ export default function Home() {
             removeWrapper
             alt="Relaxing app background"
             className="z-0 w-full h-full object-cover"
-            src="https://alonxx.github.io/YellowPenguinGames/images/ypg_logo.png"
+            src="https://alonxx.github.io/YellowPenguinGames/images/toast_brawl_bg.png"
           />
           <CardFooter className="absolute bg-black/40 bottom-0 z-10 border-t-1 border-default-600 dark:border-default-100">
             <div className="flex flex-grow gap-2 items-center">
