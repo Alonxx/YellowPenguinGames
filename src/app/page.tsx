@@ -31,14 +31,14 @@ export default function Home() {
             removeWrapper
             alt="Relaxing app background"
             className="z-0 w-full h-full object-cover"
-            src="/images/toast_brawl_bg.png"
+            src="https://alonxx.github.io/YellowPenguinGames/images/ypg_logo.png"
           />
           <CardFooter className="absolute bg-black/40 bottom-0 z-10 border-t-1 border-default-600 dark:border-default-100">
             <div className="flex flex-grow gap-2 items-center">
               <Image
                 alt="Toast Brawl Icon"
                 className="rounded-xl w-auto h-12 bg-black"
-                src="/images/toast_brawl_icon.png"
+                src="https://alonxx.github.io/YellowPenguinGames/images/toast_brawl_icon.png"
               />
               <div className="flex flex-col">
                 <p className="text-md text-white">Toast Brawl</p>
