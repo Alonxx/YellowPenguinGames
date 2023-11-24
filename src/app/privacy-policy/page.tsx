@@ -10,7 +10,7 @@ import {
 
 export default function Page() {
   return (
-    <div className="bg-white w-[100vw] h-full text-black">
+    <div className="bg-[#e6e6ec] w-[100vw] h-full text-black">
       <div className="flex justify-center pt-10 flex-row items-center">
         <Avatar
           src="https://alonxx.github.io/YellowPenguinGames/images/ypg_logo.png"
@@ -18,7 +18,11 @@ export default function Page() {
           className="w-28 h-28 text-large bg-[#f7ca4c]"
         />
       </div>
-      <div className="flex flex-col justify-center items-center pt-20 pb-20">
+
+      <div className="flex flex-col justify-center items-center pt-10 pb-20">
+        <p className="text-[#cbd1d9] text-xl sm:text-3xl text-center mb-8 font-semibold tracking-[0.5em] ">
+          PRIVACY POLICY
+        </p>
         <div className="w-[70%]">
           <h1 className="text-3xl mb-4">
             Privacy Policy - last update 16 november 2023
